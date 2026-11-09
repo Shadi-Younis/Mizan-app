@@ -1,5 +1,5 @@
 {
-  "name": "ميزان — دفتر مصاريف التاجر",
+  "name": "ميزان — دفتر مصاريف البيت",
   "short_name": "ميزان",
   "start_url": ".",
   "scope": ".",
@@ -7,7 +7,7 @@
   "orientation": "portrait",
   "background_color": "#0B4D3B",
   "theme_color": "#0B4D3B",
-  "description": "تسجيل مصاريف البضاعة والبنزين والتوصيل والجهد، وحاسبة الوصفات — يعمل بدون إنترنت",
+  "description": "تسجيل مصاريف البيت: مشتريات، فواتير كهرباء ومياه، ضرائب — يعمل بدون إنترنت",
   "lang": "ar",
   "dir": "rtl",
   "prefer_related_applications": false,

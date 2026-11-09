@@ -1,4 +1,4 @@
-const CACHE = 'mizan-32d168e';
+const CACHE = 'mizan-1796415';
 const FILES = [
  "./",
  "assets/AssetManifest.bin",
